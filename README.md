@@ -2,6 +2,8 @@
 
 JumpLR-左右跳
 
+说明：https://mp.weixin.qq.com/s/34vJUZR7XIfkZDsBATqJGQ
+
 pushBox-推箱子
 
 AnimalGame-动物同化
