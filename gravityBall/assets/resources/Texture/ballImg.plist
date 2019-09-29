@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ball_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>ball_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,119},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>ball_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,233},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>ball_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,347},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>ball_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,461},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>ball_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,575},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>ball_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,689},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>ball_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,803},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>ball_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,5},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ballImg.png</string>
+			<key>realTextureFileName</key>
+			<string>ballImg.png</string>
+			<key>size</key>
+			<string>{228,912}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>228</integer>
+			<key>height</key>
+			<integer>912</integer>
+		</dict>
+	</dict>
+</plist>
