@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>shield0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,68},{80,54}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{80,75}</string>
+			</dict>
+			<key>shield1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{73,62}}</string>
+				<key>offset</key>
+				<string>{-1,6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,75}</string>
+			</dict>
+			<key>shield2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{79,2},{63,71}}</string>
+				<key>offset</key>
+				<string>{0,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{80,75}</string>
+			</dict>
+			<key>shield3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{154,2},{57,63}}</string>
+				<key>offset</key>
+				<string>{2,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{80,75}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>shieldImg.png</string>
+			<key>realTextureFileName</key>
+			<string>shieldImg.png</string>
+			<key>size</key>
+			<string>{219,150}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>219</integer>
+			<key>height</key>
+			<integer>150</integer>
+		</dict>
+	</dict>
+</plist>
