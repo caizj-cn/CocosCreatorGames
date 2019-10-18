@@ -1,4 +1,4 @@
-# ccProjects
+# Cocos Creator Games
 
 **JumpLR-左右跳**
 
@@ -60,7 +60,7 @@
 
 
 
-更多游戏，请关注微信公众号【一枚小工】
+更多游戏、问题，请关注微信公众号【一枚小工】
 
 ![](https://forum.cocos.com/uploads/default/original/3X/7/a/7af4d77415dc6d2cd1af9cc96ffae6b805d357bc.png)
 
