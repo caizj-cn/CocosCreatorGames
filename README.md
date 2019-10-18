@@ -4,7 +4,9 @@
 
 介绍：https://mp.weixin.qq.com/s/34vJUZR7XIfkZDsBATqJGQ
 
-效果：![](https://forum.cocos.com/uploads/default/original/3X/f/1/f161d06bed4198e1fe5384900e911fa7255acc02.gif)
+效果：
+
+![](https://github.com/caizj-cn/CocosCreatorProjects/blob/master/GunHero/preview.gif?raw=true)
 
 
 
