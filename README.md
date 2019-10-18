@@ -1,6 +1,12 @@
 # ccProjects
 
-JumpLR-左右跳，介绍：https://mp.weixin.qq.com/s/34vJUZR7XIfkZDsBATqJGQ
+**JumpLR-左右跳**
+
+介绍：https://mp.weixin.qq.com/s/34vJUZR7XIfkZDsBATqJGQ
+
+效果：![](https://forum.cocos.com/uploads/default/original/3X/f/1/f161d06bed4198e1fe5384900e911fa7255acc02.gif)
+
+
 
 pushBox-推箱子，介绍：https://mp.weixin.qq.com/s/EweeEdsspFl2_Vcq_Ih7DA
 
